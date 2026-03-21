@@ -37,7 +37,7 @@
 
 ### 1. リポジトリのクローン
 ```bash
-git clone https://github.com/yourusername/taikyo-second-opinion.git
+git clone https://github.com/yourusername/taikyo-ai-second-opinion.git
 cd taikyo-ai-second-opinion
 ```
 
